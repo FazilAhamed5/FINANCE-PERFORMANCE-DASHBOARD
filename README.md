@@ -66,5 +66,4 @@ Sample financial dataset used for practice and learning purposes.
 
 👤 Author
 
-Fazil Ahamed
-Aspiring Data Analyst | Fresher
+Fazil Ahamed - Data Analyst ( Fresher )
